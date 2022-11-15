@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuadrupoleLatticeAnalysis/static/css/main.3ecf3825.css",
+    "main.js": "/QuadrupoleLatticeAnalysis/static/js/main.047ca907.js",
+    "static/js/787.fc427c5c.chunk.js": "/QuadrupoleLatticeAnalysis/static/js/787.fc427c5c.chunk.js",
+    "index.html": "/QuadrupoleLatticeAnalysis/index.html",
+    "main.3ecf3825.css.map": "/QuadrupoleLatticeAnalysis/static/css/main.3ecf3825.css.map",
+    "main.047ca907.js.map": "/QuadrupoleLatticeAnalysis/static/js/main.047ca907.js.map",
+    "787.fc427c5c.chunk.js.map": "/QuadrupoleLatticeAnalysis/static/js/787.fc427c5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ecf3825.css",
+    "static/js/main.047ca907.js"
+  ]
+}
